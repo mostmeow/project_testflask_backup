@@ -1,0 +1,9 @@
+.navbar {
+    display: inline-block;
+    width: 100vw;
+    background-color: bisque;
+}
+.navbar li {
+    display: inline;
+    list-style-type: none;
+}
